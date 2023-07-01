@@ -389,7 +389,7 @@ public abstract class BattleLoc extends Location {
 
 
             return true;
-        } else if (randomNumberForMine > 15 && randomNumberForMine <= 30) {
+        } else if (randomNumberForMine > 15 && randomNumberForMine <=  30) {
            // We are where there is a possibility of gaining armor (15%)
 
             double randomNumberForArmor = Math.random() * 100;
