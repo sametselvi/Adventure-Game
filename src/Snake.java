@@ -5,7 +5,7 @@ public class Snake extends Obstacle{
         //para kazanma ihtimali yok onun yerine eşya kazanma ihtimali
 
 
-        super("Snake",2,3,4,0);
+        super("Snake",12,3,4,0);
 
         //
     }
