@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a92aa66e-f446-4cc6-9f66-db9b213b9658" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../DENEME/src/Award.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DENEME/src/Award.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../newProject" beforeDir="false" afterPath="$PROJECT_DIR$/../newProject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="master" />
@@ -28,6 +42,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/BattleLoc.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2PxNDqXvLAPBOnqKVJ3cusaV5QO" />
   <component name="ProjectLevelVcsManager">
@@ -90,7 +107,7 @@
       <workItem from="1687215066131" duration="29774000" />
       <workItem from="1687528738426" duration="42197000" />
       <workItem from="1688038522320" duration="627000" />
-      <workItem from="1688105493092" duration="14320000" />
+      <workItem from="1688105493092" duration="15567000" />
     </task>
     <servers />
   </component>
